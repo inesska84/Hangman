@@ -1,3 +1,5 @@
 
 Halo halo
-Hallo Agnieszka
+<<<<<<< HEAD
+Hallo Agnieszka + Hello Hello 
+
